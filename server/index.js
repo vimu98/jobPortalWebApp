@@ -20,7 +20,7 @@ app.use(cookieParser());
 const corsOptions = {
 
 
-    origin:"job-portal-web-app-pearl.vercel.app",
+    origin:"https://job-portal-web-app-pearl.vercel.app",
     credentials:true
 
  
