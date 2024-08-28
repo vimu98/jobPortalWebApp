@@ -21,6 +21,7 @@ const corsOptions = {
 
 
     origin:"job-portal-web-app-pearl.vercel.app",
+    credentials:true
 
  
 }
